@@ -1,5 +1,5 @@
 // Network-first: fetch fresh app files whenever online; retain offline support.
-const CACHE = 'ponponponzu-offline-v14-repair-workflow';
+const CACHE = 'ponponponzu-offline-v16-actual-home';
 const PREFIX = 'ponponponzu-offline-';
 const ASSETS = ['./', './index.html', './app.js', './workflow.js', './manifest.webmanifest', './icon-192.png', './icon-512.png', './hygge-logo-transparent.png'];
 self.addEventListener('install', event => {
